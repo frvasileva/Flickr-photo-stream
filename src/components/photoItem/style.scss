@@ -1,0 +1,7 @@
+.photo-wrapper {
+  &:hover {
+    background-color: #fbfbfb;
+    transition: 0.2s;
+    box-shadow: 0px 0 2px #c1c1c1;
+  }
+}
